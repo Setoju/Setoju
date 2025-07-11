@@ -38,17 +38,13 @@ fun_fact: "I'm building my future one commit at a time!"
 - **[Min element finder](https://github.com/Setoju/ThreadSynchronizationAda)**: An Ada application to learn thread synchronization concepts. ✅ **Finished**
 - **[Room talk](https://github.com/Setoju?tab=repositories)**: A Ruby on Rails application for live chatting using web-socket. 🛠️ **In Progress**
 - **[Flappy Bird](https://github.com/Setoju/FlappyBird)**: Unity 2d game to practice basics of Unity. ✅ **Finished**
-- **[Exhibition platform](https://github.com/Setoju/exhibition_platform)**: A Ruby on Rails app for exhibitions. 🛠️ **In Progress**
+- **[Exhibition platform](https://github.com/Setoju/exhibition_platform)**: A Ruby on Rails app for exhibitions. ✅ **Finished**
+- **[Studidi](https://github.com/tetoraillia/studidi)**: A Ruby on Rails lms application that is a part of internship(pundit for policy pattern, interactors, kamal, RSpec). 🛠️ **In Progress**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Setoju&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setoju&layout=compact&theme=radical"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Setoju&theme=radical"/>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
 </p>
