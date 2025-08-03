@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=WELCOME&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpjdW1lYm5paWE3MXZtMmNqNnVqbjByaWNxM21wNDZpNng0aGc4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JPqYy2YajMoVglXq0e/giphy.gif" width="1000"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR3MW5rMDVuZGtvZW9jaG1zOW5neGIzemE4N2YybWw2ZTBrOWd0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dz7odtsoSkj15FAhIV/giphy.gif" width="1000"/>
 
 ---
 
@@ -12,8 +12,8 @@
 name: Setoju
 from: Ukraine
 code: [Ruby, C#, Ada, Java]
-tools: [Rails, Unity, Git, Postgres]
-learning: [Backend Dev, Unity, English]
+tools: [Rails, Git, Postgres]
+learning: [Backend Dev, English]
 hobbies: [🎸 Playing the guitar, 🏋️ Gym, 🎮 Casual gaming, 🧠 Self-growth]
 fun_fact: "I'm building my future one commit at a time!"
 ```
@@ -29,7 +29,6 @@ fun_fact: "I'm building my future one commit at a time!"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" /> 
 </p>
 
 
@@ -39,7 +38,7 @@ fun_fact: "I'm building my future one commit at a time!"
 - **[Room talk](https://github.com/Setoju?tab=repositories)**: A Ruby on Rails application for live chatting using web-socket. 🛠️ **In Progress**
 - **[Flappy Bird](https://github.com/Setoju/FlappyBird)**: Unity 2d game to practice basics of Unity. ✅ **Finished**
 - **[Exhibition platform](https://github.com/Setoju/exhibition_platform)**: A Ruby on Rails app for exhibitions. ✅ **Finished**
-- **[Studidi](https://github.com/tetoraillia/studidi)**: A Ruby on Rails lms application that is a part of internship(pundit for policy pattern, interactors, kamal, RSpec). 🛠️ **In Progress**
+- **[Studidi](https://github.com/tetoraillia/studidi)**: A Ruby on Rails lms application that is a part of internship(pundit for policy pattern, interactors, RSpec, Capybara, noticed gem, raw sql and more). ✅ **Finished**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Setoju&show_icons=true&theme=radical"/>
