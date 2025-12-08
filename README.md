@@ -41,9 +41,5 @@ fun_fact: "I'm building my future one commit at a time!"
 - **[Studidi](https://github.com/tetoraillia/studidi)**: A Ruby on Rails lms application that is a part of internship(pundit for policy pattern, interactors, RSpec, Capybara, noticed gem, raw sql and more). ✅ **Finished**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Setoju&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setoju&layout=compact&theme=radical"/>
-</p>
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
 </p>
