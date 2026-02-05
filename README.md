@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=WELCOME&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR3MW5rMDVuZGtvZW9jaG1zOW5neGIzemE4N2YybWw2ZTBrOWd0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dz7odtsoSkj15FAhIV/giphy.gif" width="1000"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk4bmNubnVqdHB0c3J5eG50b2VpdTkxODBuZWV0b2V1aWFjcmdsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif" width="1000"/>
 
 ---
 
@@ -25,9 +25,6 @@ fun_fact: "I'm building my future one commit at a time!"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
 </p>
 
