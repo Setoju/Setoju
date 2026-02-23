@@ -34,6 +34,7 @@ fun_fact: "I'm building my future one commit at a time!"
 - **[Exhibition platform](https://github.com/Setoju/exhibition_platform)**: A Ruby on Rails app for exhibitions, part of uni course work, simple CRUD. ✅ **Finished**
 - **[Studidi](https://github.com/tetoraillia/studidi)**: A Ruby on Rails lms application that is a part of internship(pundit for policy pattern, interactors, RSpec, Capybara, noticed gem, raw sql and more). ✅ **Finished**
 - **[SweetCafe](https://github.com/Setoju/sweetcafeAPI)**: A Ruby on Rails API application for outdoor cafe that was built as part of the uni group project and [deployed](https://sweet-cafe-sand.vercel.app) to render. ✅ **Finished**
+- **[RAG](https://github.com/Setoju/similarity_search)**: A Ruby on Rails API application implementing RAG (retrieval-augmented generation). ✅ **Finished**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
