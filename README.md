@@ -35,7 +35,7 @@ fun_fact: "I'm building my future one commit at a time!"
 - **[Eduxion](https://github.com/Setoju/eduxion)**: A Ruby on Rails lms application that is a part of internship(pundit for policy pattern, interactors, RSpec, Capybara, noticed gem, raw sql and more). ✅ **Finished**
 - **[SweetCafe](https://github.com/Setoju/sweetcafeAPI)**: A Ruby on Rails API application for outdoor cafe that was built as part of the uni group project and [deployed](https://sweet-cafe-sand.vercel.app) to render. ✅ **Finished**
 - **[RAG](https://github.com/Setoju/similarity_search)**: A Ruby on Rails API application implementing RAG (retrieval-augmented generation). ✅ **Finished**
-- **[Commity](https://github.com/Setoju/commity)**: Ruby gem for ai powered commit message/pr description generation. Auto field filling for pr creation (redirects to browser), supports GitHub and GitLab. ✅ **Finished**
+- **[Commiti](https://github.com/Setoju/commiti)**: Ruby gem for ai powered commit message/pr description generation. Auto field filling for pr creation (redirects to browser), supports GitHub and GitLab. Published to [RubyGems.org](https://rubygems.org/gems/commiti). ✅ **Finished**
 - **[Grape api](https://github.com/Setoju/music_events)**: Grape api for music events application. [FrontEnd](https://github.com/Setoju/music_events_ui) supports calendar and maps integration.
 
 <p align="center">
